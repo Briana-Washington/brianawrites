@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Della+Respira');
+
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    color:white;
+    letter-spacing: 15px;
+    text-align:center;
+    font-size: 300%;
+    line-height:1.5;
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+    color:white;
+    letter-spacing: 15px;
+    text-align:center;
+    font-size: 180%;
+    line-height:2;
+}
+
+
+h3 {
+    font-family: 'Amatic SC', cursive;
+    color:white;
+    text-align:center;
+}
+
+h4 {
+    font-size: 140%;
+    line-height: 2;
+    text-align:justify;
+}
+
+p {
+    font-family: 'Della Respira', serif;
+    color:white;
+    letter-spacing: 5px;
+    font-size: 110%;
+    line-height:2;
+}
+
+.italics {
+    color:#ffff99;
+    font-style: italic;
+}
+
+#center-page {
+   text-align: center;
+   margin:auto;
+   border:4px solid #b3daff;
+   width:70%;
+   margin-top:10%;
+}
+
+a {
+    color:#b3daff;
+    font-family: 'Della Respira', serif;
+    letter-spacing: 6px;
+    line-height:2;
+}
+
+a:hover {
+    color:#ffff99;
+    font-family: 'Della Respira', serif;
+    letter-spacing: 6px;
+    text-decoration:none;
+    line-height:2;
+}
+
+thumbnail {
+    background-color: black;
+}
+
+.book-preview {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid white;
+}
+
+.id {
+    padding-right:2%;
+    
+}
+
+.twitter-timeline {
+    width:300px;
+}
+
+.col-md-3 {
+    height:50%;
+}
